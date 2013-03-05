@@ -1,0 +1,9 @@
+Lissajous 3D Curve explorer. 
+
+uses ofEasyCam
+
+keyboard controls for increment/decrement X + Y inputs
+adjust X   -1 = 1 | -10 = (shift+1) | -0.1 = q
+           +1 = 2 | +10 = (shift+2) | +0.1 = w
+adjust Y   -1 = 3 | -10 = (shift+3) | -0.1 = e
+           +1 = 4 | +10 = (shift+4) | +0.1 = r
